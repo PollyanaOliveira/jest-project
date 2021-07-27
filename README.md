@@ -6,7 +6,6 @@
 @PollyanaOliveira
 
 
-
 # Objetivos do Projeto
 
 Verificar se uma série de funções estão funcionando corretamente. Você colocará em prática todo o conteúdo que aprendeu sobre Jest assíncrono e Mocks aplicados a testes em Javascript.
